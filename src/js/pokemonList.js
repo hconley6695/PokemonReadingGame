@@ -1,180 +1,80 @@
 let q1 = {
 	pokemon: "pikachu",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/pikachu.png"
 }
 let q2 = {
 	pokemon: "pidgey",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Pidgey.png"
 }
 let q3 = {
 	pokemon: "slowpoke",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Slowpoke.png"
 }
 let q4 = {
 	pokemon: "charmander",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Charmander.png"
 }
 let q5 = {
 	pokemon: "bulbasaur",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Bulbasau.png"
 }
 let q6 = {
 	pokemon: "weedle",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/weedle.png"
 }
 let q7 = {
 	pokemon: "magikarp",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/magikarp.png"
 }
 let q8 = {
 	pokemon: "caterpie",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Caterpie.png"
 }
 let q9 = {
 	pokemon: "eevee",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Eevee.png"
 }
 let q10 = {
 	pokemon: "tentacool",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Tentacool.png"
 }
 let q11 = {
 	pokemon: "oddish",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Oddish.png"
 }
 let q12 = {
 	pokemon: "jigglypuff",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Jigglypuff.png"
 }
 let q13 = {
 	pokemon: "dratini",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/dratini.png"
 }
 let q14 = {
 	pokemon: "magmar",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Magmar.png"
 }
 let q15 = {
 	pokemon: "horsea",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Horsea.png"
 }
 let q16 = {
 	pokemon: "lapras",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Lapras.png"
 }
 let q17 = {
 	pokemon: "lickitung",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Lickitung.png"
 }
 let q18 = {
 	pokemon: "vaporeon",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Vaporeon.png"
 }
 let q19 = {
 	pokemon: "jolteon",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
+	answer: "./images/Jolteon.png"
 }
 let q20 = {
 	pokemon: "rapidash",
-	choice1: "",
-	choice2: "",
-	choice3: "",
-	choice4: "",
-	choice5: "",
-	choice6: ""
-}
+	answer: "./images/Rapidash.png"
+}s
