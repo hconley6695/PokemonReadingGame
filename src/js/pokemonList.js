@@ -77,4 +77,4 @@ let q19 = {
 let q20 = {
 	pokemon: "rapidash",
 	answer: "./images/Rapidash.png"
-}s
+}
