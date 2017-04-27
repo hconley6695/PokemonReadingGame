@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-// import {render} from 'react-dom';
-// import {Link} from 'react-router';
+import {render} from 'react-dom';
+import {Link} from 'react-router';
 
 export default class Home extends Component {
 	render() {
@@ -15,14 +15,15 @@ export default class Home extends Component {
 					<p>Match the word to the correct Pokemon!</p>
 				</div>
 
-				<div className="level-buttons">
-					<div className="beg-level-btn home-btn">Beginner</div>
-					<div className="adv-level-btn home-btn">Advanced</div>
-
-				</div>
 
 			</div>
 
 		)
 	}
 }
+
+				// <div className="level-buttons">
+				// 	<Link to="/beginner"className="beg-level-btn home-btn">Beginner</Link>
+				// 	<Link to="/advanced" className="adv-level-btn home-btn">Advanced</Link>
+
+				// </div>
