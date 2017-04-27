@@ -14,13 +14,13 @@ import Home from './home';
 
 // console.log(pokemonList);
 
-render((
-<Router history={hashHistory}>
-    <Route path="/" component={Home}/>
+// render((
+// <Router history={hashHistory}>
+//     <Route path="/" component={Home}/>
 
 
-</Router>
-	), document.querySelector('.app'));
+// </Router>
+// 	), document.querySelector('.app'));
 
     // <Route path="/dashboard" component={Dashboard}>
     // 	<IndexRoute component={StartBoard}/>
@@ -29,10 +29,10 @@ render((
     // 	<Route path="/winner" component={Winner}/>    
     // </Route>
 
-// let renderHome = () => {
-// 	ReactDOM.render (
-// 		<Home/>,
-// 		document.querySelector('.app');
-// 	);
-// }
-// renderHome();
+let renderHome = () => {
+	render (
+		<Home/>,
+		document.querySelector('.app')
+	);
+}
+renderHome();
